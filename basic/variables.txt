@@ -1,0 +1,16 @@
+package main
+
+import "fmt"
+
+var middleName = "Anna"
+
+func main() {
+
+	fmt.Println(middleName)
+
+}
+
+func firstname() {
+	firstname := "Luis"
+	fmt.Println(firstname)
+}

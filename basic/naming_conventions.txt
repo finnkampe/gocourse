@@ -1,0 +1,11 @@
+package main
+
+type Student struct {
+	FirstName string
+	LastName  string
+	Age       int
+}
+
+func main() {
+
+}
